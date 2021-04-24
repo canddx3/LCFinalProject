@@ -7,12 +7,22 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My Project will be a MEAN ecommerce site for mountain bikes.  I'm wanting to make a sight where people can come look and buy mountain bikes from various manufactures at various price points.  I think this will help users be able to compare different mountain bikes from different manufactures alot easier then switching websites by having the descriptions of each bike all on the same page. I idea is because I like mountain bikes and the pricing, parts, and descriptions are hard to navigate. 
 ### Features
-Include Features here
+User Login- user can sign up and login in to their own account.
+Search- search by manufacture and pricing points.
+Buy- buy the bike you want from the cart option.
+Compare- compare 3 different bikes of your choosing.
 ### Technologies
-Include Technologies here
+MongoDB
+ExpressJs
+AngularJs
+NodeJs
 ### What I'll Have to Learn
-Include what you will need to learn here
+How to setup a compare for different objects.
+How to implement a search for bikes and price.
+Refresh on angular, express, mongodb, and nodejs.
+How to impliment the cart and checkout of the site.
 ### Project Tracker
 Link to your Trello board here
+https://trello.com/b/bd81Crv8/launchcodeproject
