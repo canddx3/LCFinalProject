@@ -8,10 +8,10 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 * [FrontPage](/P3-Project_Planning/images/FrontPage.png)
-* [Signup](/images/Signup.png)
-* [Login](/images/Login.png)
-* [Search](/images/Search.png)
-* [Compare](/images/Compare.png)
+* [Signup](/P3-Project_Planning/images/Signup.png)
+* [Login](/P3-Project_Planning/images/Login.png)
+* [Search](/P3-Project_Planning/images/Search.png)
+* [Compare](/P3-Project_Planning/images/Compare.png)
 
 ### Project Tracker
 
