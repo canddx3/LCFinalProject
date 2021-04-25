@@ -7,7 +7,7 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-* [FrontPage](/P3-Project_Planning/images/FrontPage.png)
+* [FrontPage](/FrontPage.png)
 * [Signup](/P3-Project_Planning/images/Signup.png)
 * [Login](/P3-Project_Planning/images/Login.png)
 * [Search](/P3-Project_Planning/images/Search.png)
