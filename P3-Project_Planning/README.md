@@ -7,11 +7,11 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-*[FrontPage](/images/FrontPage.png)
-*[Signup](/images/Signup.png)
-*[Login](/images/Login.png)
-*[Search](/images/Search.png)
-*[Compare](/images/Compare.png)
+* [FrontPage](/images/FrontPage.png)
+* [Signup](/images/Signup.png)
+* [Login](/images/Login.png)
+* [Search](/images/Search.png)
+* [Compare](/images/Compare.png)
 
 ### Project Tracker
 
